@@ -7,7 +7,7 @@ This is a simple dice roller app with some custom dice. There is one di for room
 Many times my roommates and I will playing a card game we don't know who to pick to start. We also are very indecisive when it comes to picking where to eat. This app helps with both! 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Sn46JYI11Rc)
 
 # Development Environment
 
